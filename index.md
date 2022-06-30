@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Duan Shuxi's Personal Website
 
-You can use the [editor on GitHub](https://github.com/ShuxiDuan/ShuxiDuan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShuxiDuan/ShuxiDuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Self Description
+I am currently a graduated student in Nanjing University majoring in Economics. I build this website to share my analyses and opinions mainly on economic issues. Maybe ocasionally, I will upload something on my personal stuff. In this perspective, this webpage serves as a blog. Here are some tags of me out of my self portrait. ***Economic researcher***, ***Tennis funs***, ***ACG lover***, ***Doggy friends***. My life motto is ***古之立大事者，不惟有超世之才，亦必有坚忍不拔之志***, which means that Since ancient times, those who established great things were not only talented in the world, but also had the will to persevere. This motto comes from one of my favorite poets, Su Shi in Song Dynasty. The essay is available at [晁错论](https://baike.baidu.hk/item/%E6%99%81%E9%8C%AF%E8%AB%96/10172496).
+My cv is available at [中文简历]()
